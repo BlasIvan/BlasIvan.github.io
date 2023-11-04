@@ -19,7 +19,7 @@
   border: 3px solid var(--clr-white);
 }
 .myimage{
-  background: url(/assets/img/received_1258154308192285.jpeg);
+  background: url(../img/received_1258154308192285.jpeg);
   background-position: center;
   background-size: cover;
   min-height: 500px;
@@ -28,7 +28,7 @@
   box-shadow: 5px 5px 20px 0 var(--clr-black);
 }
 .educationbg{
-  background: url(/assets/img/pexels-katerina-holmes-5905857.jpg);
+  background: url(../img/pexels-katerina-holmes-5905857.jpg);
   background-position: center;
   background-size: cover;
   min-height: 500px;
@@ -54,7 +54,7 @@ section > .container-fluid {
   position: relative;
 }
 .backgblur{
-  background: url(/assets/img/pexels-timson-foox-2182863.jpg);
+  background: url(../img/pexels-timson-foox-2182863.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -64,7 +64,7 @@ section > .container-fluid {
   filter: blur(3px);
 }
 .abtbackg{
-  background: url(/assets/img/pexels-cottonbro-studio-3945655.jpg);
+  background: url(../img/pexels-cottonbro-studio-3945655.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
